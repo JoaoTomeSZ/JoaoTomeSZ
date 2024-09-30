@@ -13,3 +13,5 @@
 </div><br/>
 
 Apaixonado por tecnologia, programação e por viver!
+
+![Snake animation](https://github.com/JoaoTomeSZ/JoaoTomeSZ/blob/output/github-contribution-grid-snake.svg)
